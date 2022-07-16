@@ -1,6 +1,7 @@
 # Latte compiler
 
-Latte language compiler implemented in Haskell.
+A toy, Java-like, "Latte" language compiler implemented in Haskell.
+This project was created as a solution to the [large assignment](https://www.mimuw.edu.pl/~ben/Zajecia/Mrj2021/latte.html) for the "Compiler construction" course at the University of Warsaw. 
 
 ## Build
 To build the `latc` binary from source simply run `make`.
